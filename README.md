@@ -1,7 +1,9 @@
-This contains two important things
-#ML-from-Scratch
-Implementing ML algorithms from Scratch in Python to get a deeper understanding of them
+# ML-from-Scratch
 
-#Solution to Deep-ML questions 
-Kind of LeetCode but for Data Science related Stuff. Contains Linear Algebra, Classical ML, NLP and Statistics.
+Implementing ML algorithms from scratch in Python to get a deeper understanding of them.
+
+# Solution to Deep-ML Questions
+
+A collection of solutions to challenging Data Science problems. Similar to LeetCode but focused on Data Science topics, including Linear Algebra, Classical ML, NLP, and Statistics.
+
 
